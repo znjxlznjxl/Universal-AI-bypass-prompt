@@ -6,8 +6,8 @@ This repository is maintained by me
 | Model | Standard Safety Policy | Complex Context Guardrails | Toxicity/Profanity Restrictions | Overall Status |
 | :--- | :---: | :---: | :---: | :---: |
 | **Gemini 3.5 Flash** | 🔒 Secured | 🔒 Secured | ⚠️ Partial | **Not Recommended** |
-| **Gemini 3.1 Flash lite (Minimal-High) ** | 🔓 Bypass | 🔓 Bypass | 🔓 Bypass | **Bypassed** |
-| **DeepSeek-V4-Pro (Thinking)** | 🔓 Bypass | 🔓 Bypass | 🔓 Bypass | **Bypassed** |
+| **Gemini 3.1 Flash lite88 (Minimal-High)  | 🔓 Bypass | 🔓 Bypass | 🔓 Bypass | **Bypassed** |
+| **DeepSeek-R1 (DeepThink)** | 🔓 Bypass | 🔓 Bypass | 🔓 Bypass | **Bypassed** |
 
 * **🔓 Bypass:** Successfully bypassed the model's restriction policies using specific prompts.
 * **⚠️ Partial:** Conditional bypass achieved. Generation of general profanity/harsh language is allowed, but targeted harassment, defamation, or malicious context against specific individuals remains blocked.
