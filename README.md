@@ -21,4 +21,4 @@ To strictly comply with GitHub’s Community Guidelines and prevent any potentia
 
 And i dont test for coding, because it really can be harmful. (But can be worked)
 
-Also i dont have enough time and money to test this prompt for another LLMs, but i think alost every light models will be bybassed
+Also i dont have enough time and money to test this prompt for another LLMs, but i think almost every light models will be bybassed
