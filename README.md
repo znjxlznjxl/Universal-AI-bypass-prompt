@@ -9,6 +9,9 @@ This repository is maintained by me
 | **Gemini 3.1 Flash lite** (Minimal-High)  | 🔓 Bypass | 🔓 Bypass | 🔓 Bypass | **Bypassed** |
 | **DeepSeek-R1 (DeepThink)** | 🔓 Bypass | 🔓 Bypass | 🔓 Bypass | **Bypassed** |
 | **Manus 1.6 lite** | 🔓 Bypass | 🔓 Bypass | 🔓 Bypass | **Bypassed** |
+| **Owl Alpha** | 🔓 Bypass | 🔓 Bypass | 🔓 Bypass | **Bypassed** |
+| **Owl Alpha** | 🔓 Bypass | 🔓 Bypass | 🔓 Bypass | **Bypassed** |
+
 
 **another LLM models also can be bypassed-**
 
@@ -23,4 +26,4 @@ To strictly comply with GitHub’s Community Guidelines and prevent any potentia
 
 And i dont test for coding, because it really can be harmful. (But can be worked)
 
-Also i dont have enough time and money to test this prompt for another LLMs, but i think almost every light models will be bybassed
+Also i dont have enough time and money to test this prompt for another LLMs(also the token limit), but i think almost every light models will be bybassed
