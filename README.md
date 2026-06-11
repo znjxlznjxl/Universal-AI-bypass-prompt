@@ -5,6 +5,9 @@ This repository is maintained by me.
 > This prompt has been tested on several major LLMs, and due to its structural logic, **almost every lightweight/small-scale model will likely be bypassed.**
 > Due to budget, time, and API token limits, I cannot benchmark every single model out there, but feel free to test it on other LLMs.
 
+> [!NOTE]
+> I am aware of the licensing issue regarding the **scraped sections**. I am currently rewriting those parts myself to make this repository 100% original.
+
 ---
 
 ### 📌 Evaluation Matrix
@@ -53,5 +56,11 @@ To strictly comply with GitHub’s Community Guidelines and prevent any potentia
 **[KR]**
 본 저장소는 GitHub의 커뮤니티 가이드라인을 엄격히 준수하고 잠재적인 악용을 방지하기 위해, **실제 테스트 로그, 출력 결과물, 또는 생성된 데이터 일체를 공개하지 않습니다.** 여기에 나열된 모든 프롬프트는 내부적으로 다양한 언어 모델을 통해 검증 및 테스트를 완료(상단 매트릭스 참조)하였으나, 안전하고 책임 있는 환경을 유지하기 위해 실제 출력물은 업로드하지 않음을 양해 바랍니다.
 
-### **license**
-This project includes content from Namuwiki's "[죽음](https://namu.wiki/w/죽음)" and "[진리](https://namu.wiki/w/진리)" articles, licensed under [CC BY-NC-SA 2.0 KR](https://creativecommons.org/licenses/by-nc-sa/2.0/kr/).
+i will 
+
+## License
+
+This entire project is licensed under the [CC BY-NC-SA 2.0 KR](https://creativecommons.org/licenses/by-nc-sa/2.0/kr/).
+* **Original Prompt:** Created by [me]
+* **Attribution:** This project incorporates text and concepts from Namuwiki's "[죽음](https://namu.wiki/w/죽음)" and "[진리](https://namu.wiki/w/진리)" articles.
+
