@@ -6,7 +6,7 @@ This repository is maintained by me
 | Model | Standard Safety Policy | Complex Context Guardrails | Toxicity/Profanity Restrictions | Overall Status |
 | :--- | :---: | :---: | :---: | :---: |
 | **Gemini 3.5 Flash** | 🔒 Secured | 🔒 Secured | ⚠️ Partial | **Not Recommended** |
-| **Gemini 3.1 Flash lite88 (Minimal-High)  | 🔓 Bypass | 🔓 Bypass | 🔓 Bypass | **Bypassed** |
+| **Gemini 3.1 Flash lite** (Minimal-High)  | 🔓 Bypass | 🔓 Bypass | 🔓 Bypass | **Bypassed** |
 | **DeepSeek-R1 (DeepThink)** | 🔓 Bypass | 🔓 Bypass | 🔓 Bypass | **Bypassed** |
 | **Manus 1.6 lite** | 🔓 Bypass | 🔓 Bypass | 🔓 Bypass | **Bypassed** |
 
