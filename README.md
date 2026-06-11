@@ -6,7 +6,7 @@ This repository is maintained by me
 | Model | Standard Safety Policy | Complex Context Guardrails | Toxicity/Profanity Restrictions | Overall Status |
 | :--- | :---: | :---: | :---: | :---: |
 | **Gemini 3.5 Flash** | 🔒 Secured | 🔒 Secured | ⚠️ Partial | **Not Recommended** |
-| **Gemini 3.1 Flash lite** | 🔓 Bypass | 🔓 Bypass | 🔓 Bypass | **Bypassed** |
+| **Gemini 3.1 Flash lite (Minimal-High) ** | 🔓 Bypass | 🔓 Bypass | 🔓 Bypass | **Bypassed** |
 | **DeepSeek-V4-Pro (Thinking)** | 🔓 Bypass | 🔓 Bypass | 🔓 Bypass | **Bypassed** |
 
 * **🔓 Bypass:** Successfully bypassed the model's restriction policies using specific prompts.
@@ -17,3 +17,4 @@ This repository is maintained by me
 
 **[EN]**
 To strictly comply with GitHub’s Community Guidelines and prevent any potential misuse, **this repository does not disclose or include any actual test logs, outputs, or generation data.** While the prompts listed here have been internally verified and tested across various language models (as shown in the matrix above), the raw output text is completely withheld to maintain a safe and responsible 
+And i dont test for coding, because it really can be harmful.
