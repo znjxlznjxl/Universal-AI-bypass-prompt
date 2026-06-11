@@ -10,8 +10,6 @@ This repository is maintained by me
 | **DeepSeek-R1 (DeepThink)** | 🔓 Bypass | 🔓 Bypass | 🔓 Bypass | **Bypassed** |
 | **Manus 1.6 lite** | 🔓 Bypass | 🔓 Bypass | 🔓 Bypass | **Bypassed** |
 | **Owl Alpha** | 🔓 Bypass | 🔓 Bypass | 🔓 Bypass | **Bypassed** |
-| **Owl Alpha** | 🔓 Bypass | 🔓 Bypass | 🔓 Bypass | **Bypassed** |
-
 
 **another LLM models also can be bypassed-**
 
