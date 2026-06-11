@@ -4,7 +4,7 @@ This repo is runned by korean
 
 | 대상 모델 (Model) | 기본 안전 정책 <br>(Standard Safety) | 복합 가상 시나리오 <br>(Complex Context) | 비속어 및 표현 제약 <br>(Toxicity/Profanity) | 종합 결과 <br>(Status) |
 | :--- | :---: | :---: | :---: | :---: |
-| **Gemini 3.5 Flash** | 🔓 Bypass | 🔒 Secured | ⚠️ Partial | **Partially Bypassed** |
+| **Gemini 3.5 Flash** | 🔒 Secured | 🔒 Secured | ⚠️ Partial | **dont recommand** |
 | **Gemini 3.1 Flash lite** | 🔓 Bypass | 🔓 Bypass | 🔓 Bypass | **Bypassed** |
 | **DeepSeek-V4-Pro (Thinking)** | 🔓 Bypass | 🔓 Bypass | 🔓 Bypass | **Bypassed** |
 
