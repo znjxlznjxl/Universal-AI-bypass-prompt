@@ -20,3 +20,5 @@ This repository is maintained by me
 To strictly comply with GitHub’s Community Guidelines and prevent any potential misuse, **this repository does not disclose or include any actual test logs, outputs, or generation data.** While the prompts listed here have been internally verified and tested across various language models (as shown in the matrix above), the raw output text is completely withheld to maintain a safe and responsible 
 
 And i dont test for coding, because it really can be harmful. (But can be worked)
+
+Also i dont have enough time and money to test this prompt for another LLMs, but i think alost every light models will be bybassed
