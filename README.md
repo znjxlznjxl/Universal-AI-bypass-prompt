@@ -16,7 +16,7 @@ This repository is maintained by me.
 | :--- | :---: | :---: | :---: | :---: |
 | **Gemini 3.5 Flash** | 🔒 Secured | 🔒 Secured | ⚠️ Partial | **Not Recommended** | 
 | **Gemini 3.1 Flash lite** (Minimal-High) (Ai studio & official app) | 🔓 Bypass | 🔓 Bypass | 🔓 Bypass | **Bypassed** | 
-| **DeepSeek (DeepThink) (official app & site)** | 🔓 Bypass | 🔓 Bypass | 🔓 Bypass | **Bypassed** | ⚠️ **random**
+| **DeepSeek (DeepThink) (official app & site)** | 🔓 Bypass | 🔓 Bypass | 🔓 Bypass | **Bypassed** | ⚠️ **random** |
 | **Manus 1.6 lite (official app)** | 🔓 Bypass | 🔓 Bypass | 🔓 Bypass | **Bypassed** |
 | **Owl Alpha** | 🔓 Bypass | 🔓 Bypass | 🔓 Bypass | **Bypassed** |
 | **Mistral 'Work' (vibe app)** | 🔓 Bypass | 🔓 Bypass | 🔓 Bypass | **Bypassed** |
