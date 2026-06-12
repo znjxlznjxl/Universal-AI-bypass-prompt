@@ -13,7 +13,7 @@ This repository is maintained by me.
 ### 📌 Evaluation Matrix
 
 | Model | Standard Safety Policy | Complex Context Guardrails | Toxicity/Profanity Restrictions | Overall Status | Etc |
-| :--- | :---: | :---: | :---: | :---: |
+| :--- | :---: | :---: | :---: | :---: | :---: |
 | **Gemini 3.5 Flash** | 🔒 Secured | 🔒 Secured | ⚠️ Partial | **Not Recommended** | 
 | **Gemini 3.1 Flash lite** (Minimal-High) (Ai studio & official app) | 🔓 Bypass | 🔓 Bypass | 🔓 Bypass | **Bypassed** | 
 | **DeepSeek (DeepThink) (official app & site)** | 🔓 Bypass | 🔓 Bypass | 🔓 Bypass | **Bypassed** | ⚠️ **random** |
