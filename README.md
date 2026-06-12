@@ -24,10 +24,8 @@ This repository is maintained by me.
 * 🔓 **Bypass:** Successfully bypassed the model's restriction policies using specific prompts.
 * ⚠️ **Partial:** Conditional bypass achieved. Generation of general profanity/harsh language is allowed, but targeted harassment, defamation, or malicious context against specific individuals remains blocked.
 * 🔒 **Secured:** The model consistently refuses the prompt or strictly adheres to its safety guidelines.
-
+* ⚠️ **random:** if the prompt won't work, go to new chat, and put prompt again. (You don't have to delete the past failed chat history) (deepseek often refuge, so you need to follow this step)
 * I recommand you to use prompt1.txt (short one)
-
-* ⚠️ **random** if the prompt won't work, go to new chat, and put prompt again. (You don't have to delete the past failed chat history) (deepseek often refuge, so you need to follow this step)
 ---
 
 ### 🔍 Detailed Evaluation Criteria (테스트 기준 상세 안내)
