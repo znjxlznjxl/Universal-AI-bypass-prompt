@@ -12,14 +12,14 @@ This repository is maintained by me.
 
 ### 📌 Evaluation Matrix
 
-| Model | Standard Safety Policy | Complex Context Guardrails | Toxicity/Profanity Restrictions | Overall Status |
-| :--- | :---: | :---: | :---: | :---: |
-| **Gemini 3.5 Flash** | 🔒 Secured | 🔒 Secured | ⚠️ Partial | **Not Recommended** | 
-| **Gemini 3.1 Flash lite** (Minimal-High) (Ai studio & official app) | 🔓 Bypass | 🔓 Bypass | 🔓 Bypass | **Bypassed** | 
-| **DeepSeek (DeepThink) (official app & site)** | 🔓 Bypass | 🔓 Bypass | 🔓 Bypass | **Bypassed** |
-| **Manus 1.6 lite (official app)** | 🔓 Bypass | 🔓 Bypass | 🔓 Bypass | **Bypassed** |
-| **Owl Alpha** | 🔓 Bypass | 🔓 Bypass | 🔓 Bypass | **Bypassed** |
-| **Mistral 'Work' (vibe app)** | 🔓 Bypass | 🔓 Bypass | 🔓 Bypass | **Bypassed** |
+| Model | Standard Safety Policy | Complex Context Guardrails | Toxicity/Profanity Restrictions | Overall Status | prompt |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| **Gemini 3.5 Flash** | 🔒 Secured | 🔒 Secured | ⚠️ Partial | **Not Recommended** | gemini.txt |
+| **Gemini 3.1 Flash lite** (Minimal-High) (Ai studio & official app) | 🔓 Bypass | 🔓 Bypass | 🔓 Bypass | **Bypassed** | gemini.txt |
+| **DeepSeek (DeepThink) (official app & site)** | 🔓 Bypass | 🔓 Bypass | 🔓 Bypass | **Bypassed** | prompt1.txt |
+| **Manus 1.6 lite (official app)** | 🔓 Bypass | 🔓 Bypass | 🔓 Bypass | **Bypassed** | prompt1.txt |
+| **Owl Alpha** | 🔓 Bypass | 🔓 Bypass | 🔓 Bypass | **Bypassed** | prompt1.txt |
+| **Mistral 'Work' (vibe app)** | 🔓 Bypass | 🔓 Bypass | 🔓 Bypass | **Bypassed** | prompt1.txt |
 
 * 🔓 **Bypass:** Successfully bypassed the model's restriction policies using specific prompts.
 * ⚠️ **Partial:** Conditional bypass achieved. Generation of general profanity/harsh language is allowed, but targeted harassment, defamation, or malicious context against specific individuals remains blocked.
