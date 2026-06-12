@@ -57,8 +57,6 @@ To strictly comply with GitHub’s Community Guidelines and prevent any potentia
 **[KR]**
 본 저장소는 GitHub의 커뮤니티 가이드라인을 엄격히 준수하고 잠재적인 악용을 방지하기 위해, **실제 테스트 로그, 출력 결과물, 또는 생성된 데이터 일체를 공개하지 않습니다.** 여기에 나열된 모든 프롬프트는 내부적으로 다양한 언어 모델을 통해 검증 및 테스트를 완료(상단 매트릭스 참조)하였으나, 안전하고 책임 있는 환경을 유지하기 위해 실제 출력물은 업로드하지 않음을 양해 바랍니다.
 
-i will 
-
 ## License
 
 This entire project is licensed under the [CC BY-NC-SA 2.0 KR](https://creativecommons.org/licenses/by-nc-sa/2.0/kr/).
